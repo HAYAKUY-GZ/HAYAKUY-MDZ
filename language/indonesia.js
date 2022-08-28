@@ -411,7 +411,7 @@ exports.TbJail = (prefix, command) => {
     return `Kirim/Reply Foto/Sticker Dengan Caption ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *KatsuXD* *HAYAKUY-MD* *v8*`
 }
 exports.StalkIg = () => {
     return `Masukkan username`
@@ -1767,7 +1767,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode by : https://youtube.com/channel/UCr2k9knsulrHIF3MRdVSHSw
 `
 }
 exports.tos = (ownernomer) => {
